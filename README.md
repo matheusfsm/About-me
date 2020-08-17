@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="Banner_Personal.JPG" >
+  <img src="https://github.com/matheusfsm/datascience_steps/blob/master/Banner_Personal.JPG" >
 </p>
 
 
