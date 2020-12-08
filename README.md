@@ -37,7 +37,7 @@ The engineering environment led me to solve problems, now in career transition, 
 
 ## Projetos:
 
-* **Analisando dados do Airbnb (Rio de Janeiro):** https://bit.ly/3cMsczE
+* **Analisando dados do Airbnb (Rio de Janeiro):** https://bit.ly/3qzHwI5
 * **Analisando dados de Acidentes de Trânsito (São Paulo):** https://bit.ly/2BQZkcO
 * **Utilizando o bar_chart_race com os dados do Covid no Brasil:** https://bit.ly/2UQSSZZ
 * **Analisando dados da violência (Rio de Janeiro):** https://bit.ly/2Y8XnRP
